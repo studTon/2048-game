@@ -71,5 +71,5 @@ class Game(tk.Frame):
             fg=c.CELL_NUMBER_COLORS[2],
             font=c.CELL_NUMBER_FONTS[2],
             text="2"
-
+        )
         self.score = 0
