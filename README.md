@@ -1,2 +1,2 @@
-# quiz-game
-Simple Python game
+# 2048-game
+Simple Python game with GUI interface
